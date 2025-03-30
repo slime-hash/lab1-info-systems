@@ -1,0 +1,3 @@
+.gitignore 
+232b.txt 
+log.log 
